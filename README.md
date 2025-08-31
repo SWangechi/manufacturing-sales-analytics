@@ -23,7 +23,11 @@ It combines **Streamlit**, **Plotly**, and **Jupyter Notebooks** to visualize sa
 
 ## 📂 Project Structure
 Manufacturing-Sales-Analytics-Forecasting/
-        │-- dashboard.py 
-        │-- Manufacturing Sales Analytics & Forecasting.ipynb 
+
+        │-- dashboard.py
+
+        │-- Manufacturing Sales Analytics & Forecasting.ipynb
+
         │-- powerbi_feed.csv
+        
         │-- README.md 
