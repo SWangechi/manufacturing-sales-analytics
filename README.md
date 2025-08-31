@@ -5,7 +5,7 @@ It combines **Streamlit**, **Plotly**, and **Jupyter Notebooks** to visualize sa
 
 ---
 
-## 🚀 Features
+## Features
 - **Interactive Dashboard** (Streamlit + Plotly)
   - Sales trend visualization (Product A, Product B, Total Sales)
   - Date range filtering
@@ -23,7 +23,7 @@ It combines **Streamlit**, **Plotly**, and **Jupyter Notebooks** to visualize sa
 
 ## 📂 Project Structure
 Manufacturing-Sales-Analytics-Forecasting/
-│-- dashboard.py # Streamlit dashboard
-│-- Manufacturing Sales Analytics & Forecasting.ipynb # Jupyter Notebook for analysis & forecasting
-│-- powerbi_feed.csv # Sales dataset
-│-- README.md # Project documentation
+        │-- dashboard.py 
+        │-- Manufacturing Sales Analytics & Forecasting.ipynb 
+        │-- powerbi_feed.csv
+        │-- README.md 
