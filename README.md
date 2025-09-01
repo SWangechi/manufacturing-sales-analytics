@@ -29,5 +29,7 @@ Manufacturing-Sales-Analytics-Forecasting/
         │-- Manufacturing Sales Analytics & Forecasting.ipynb
 
         │-- powerbi_feed.csv
-        
+
         │-- README.md 
+
+Interact with the dashboard here: [Manufacturing Sales Dashboard](https://manufacturingsalesanalytics.streamlit.app/)        
